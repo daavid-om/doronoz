@@ -1,0 +1,14 @@
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\bin\Debug\net6.0\doronoz.exe
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\bin\Debug\net6.0\doronoz.deps.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\bin\Debug\net6.0\doronoz.runtimeconfig.json
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\bin\Debug\net6.0\doronoz.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\bin\Debug\net6.0\doronoz.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.AssemblyInfoInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.AssemblyInfo.cs
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.csproj.CoreCompileInputs.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\refint\doronoz.dll
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.pdb
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\doronoz.genruntimeconfig.cache
+C:\Users\csi23-doronozcolegio\Desktop\C#\doronoz\obj\Debug\net6.0\ref\doronoz.dll
